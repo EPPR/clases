@@ -8,25 +8,34 @@ En la clase de hoy vamos a aprender sobre los principales sistemas operativos de
 ## La Historia de Linux
 
 ```
-Pendiente.
+Aprenderemos los aspectos básicos sobre la creación de Linux.
+
+¿Quién creó Linux? 
+¿Por qué? 
+¿Cómo es que sigue creciendo? 
+¿Cuál es su relación con Android? 
+
 ```
 
 ## Distros Linux
 
 ```
-Pendiente.
+Una distro es una distribución.
+
+Aprenderemos las principales diferencias entre los diferentes Distros de Linux.
+
 ```
 
 ## GUI vs CLI
 
 ```
-Pendiente.
+Aprenderemos las diferencias entre una Interfaz Gráfica y una Interfaz de Línea de Comando.
 ```
 
 ## Jerarquía de Archivos del Sistema | Filesystem Hierarchy
 
 ```
-Pendiente.
+Aprenderemos los conceptos más básicos para la correcta navegación entre el sistema de archivos de Linux.
 ```
 
 ## Actividades de Clase
